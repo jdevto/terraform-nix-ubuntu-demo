@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "anysphere.remote-wsl",
+    "hashicorp.terraform",
+    "jnoortheen.nix-ide",
+    "ms-azuretools.vscode-docker",
+    "redhat.vscode-yaml"
+  ]
+}
